@@ -48,7 +48,7 @@ $(document).ready(function () {
         let c = parseInt($("#grade").val());
 
 
-        $("p").text(`You have registered ${b} for ${c}`);
+        $("p").text(`You have registered ${b} for grade ${c} camp!`);
 
 
     }
